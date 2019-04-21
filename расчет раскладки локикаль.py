@@ -20,6 +20,7 @@ while True:
             h1+=h_central
         return z
     z = xxx(h_prof,w_r,q_r,z_x)
+    
     print('размеры: {0}\n'.format(z))
 
 
